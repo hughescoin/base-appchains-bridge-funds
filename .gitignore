@@ -1,0 +1,11 @@
+node_modules
+.DS_STORE
+.next/
+.env
+.env.local
+package-lock.json
+Walkthrough.md
+vocs-version/
+config.js
+SendFundsToSmartWallet.js
+BridgeAssetsToAppchain.js
